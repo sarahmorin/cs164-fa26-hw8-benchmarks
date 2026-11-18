@@ -9,7 +9,7 @@ Here's how to get started running benchmarks for Homework 8:
 1. Clone this respository into your Homework 8 repository:
 
 ```sh
-git clone git@github.com:berkeley-cs164-2025/hw8-benchmarks.git
+git clone https://github.com/sarahmorin/cs164-fa26-hw8-benchmarks.git hw8-benchmarks
 ```
 
 2. In the new `hw8-benchmarks` directory (not the `benchmarks` subdirectory), edit the `config.json` file. This file should be a JSON-formatted dictionary where the keys are configurations and the values are lists of pass names. For example, we have the following example configuration set up by default:
